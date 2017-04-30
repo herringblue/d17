@@ -4,7 +4,7 @@ A new palette of css colours for the web.
 ## Usage
 You can use either the minified or unminified css file located in the css directory. Cut and paste the css or link to it directly in your html. Or copy the color hex below.
 
-`<link rel="stylesheet" href="path/to/module/css/colors.css">`
+`<link rel="stylesheet" href="path/to/module/css/d17.css">`
 
 ## Colours
 The colours are based on the default HTML web colours.
