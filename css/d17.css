@@ -1,0 +1,128 @@
+/* Colour Variables */
+
+:root {
+--aqua:  #58E9FF;
+--blue:  #0483FF;
+--navy:  #002147;
+
+--lime:  #5BF44C;
+--green: #1BC00B;
+--olive: #6B8E23;
+--teal:  #007777;
+
+--yellow:  #FFCD00;
+--orange:  #FF7518;
+--red:     #CA0002;
+--maroon:  #500000;
+
+--fuchsia: #ED1A73;
+--purple:  #4B0082;
+
+--white:  #FFFFFF;
+--silver: #EEEEEE;
+--gray:   #272727;
+--black:  #111111;
+}
+
+/* Backgrounds */
+
+.bg-aqua {    background-color: var(--aqua); }
+.bg-blue {    background-color: var(--blue); }
+.bg-navy {    background-color: var(--navy); }
+.bg-lime {    background-color: var(--lime); }
+.bg-green {   background-color: var(--green); }
+.bg-olive {   background-color: var(--olive); }
+.bg-teal {    background-color: var(--teal); }
+.bg-yellow {  background-color: var(--yellow); }
+.bg-orange {  background-color: var(--orange); }
+.bg-red {     background-color: var(--red); }
+.bg-maroon {  background-color: var(--maroon); }
+.bg-fuchsia { background-color: var(--fuchsia); }
+.bg-purple {  background-color: var(--purple); }
+.bg-white {   background-color: var(--white); }
+.bg-silver {  background-color: var(--silver); }
+.bg-gray {    background-color: var(--gray); }
+.bg-black {   background-color: var(--black); }
+
+
+/* Colours */
+
+.aqua {       color: var(--aqua); }
+.blue {       color: var(--blue); }
+.navy {       color: var(--navy); }
+.lime {       color: var(--lime); }
+.green {      color: var(--green); }
+.olive {      color: var(--olive); }
+.teal {       color: var(--teal); }
+.yellow {     color: var(--yellow); }
+.orange {     color: var(--orange); }
+.red {        color: var(--red); }
+.maroon {     color: var(--maroon); }
+.fuchsia {    color: var(--fuchsia); }
+.purple {     color: var(--purple); }
+.white {      color: var(--white); }
+.silver {     color: var(--silver); }
+.gray {       color: var(--gray); }
+.black {      color: var(--black); }
+
+
+/* Border colors */
+
+.border-aqua {    border-color: var(--aqua); }
+.border-blue {    border-color: var(--blue); }
+.border-navy {    border-color: var(--navy); }
+.border-lime {    border-color: var(--lime); }
+.border-green {   border-color: var(--green); }
+.border-olive {   border-color: var(--olive); }
+.border-teal {    border-color: var(--teal); }
+.border-yellow {  border-color: var(--yellow); }
+.border-orange {  border-color: var(--orange); }
+.border-red {     border-color: var(--red); }
+.border-maroon {  border-color: var(--maroon); }
+.border-fuchsia { border-color: var(--fuchsia); }
+.border-purple {  border-color: var(--purple); }
+.border-white {   border-color: var(--white); }
+.border-silver {  border-color: var(--silver); }
+.border-gray {    border-color: var(--gray); }
+.border-black {   border-color: var(--black); }
+
+
+/* Fills for SVG */
+
+.fill-aqua {    fill: var(--aqua); }
+.fill-blue {    fill: var(--blue); }
+.fill-navy {    fill: var(--navy); }
+.fill-lime {    fill: var(--lime); }
+.fill-green {   fill: var(--green); }
+.fill-olive {   fill: var(--olive); }
+.fill-teal {    fill: var(--teal); }
+.fill-yellow {  fill: var(--yellow); }
+.fill-orange {  fill: var(--orange); }
+.fill-red {     fill: var(--red); }
+.fill-maroon {  fill: var(--maroon); }
+.fill-fuchsia { fill: var(--fuchsia); }
+.fill-purple {  fill: var(--purple); }
+.fill-white {   fill: var(--white); }
+.fill-silver {  fill: var(--silver); }
+.fill-gray {    fill: var(--gray); }
+.fill-black {   fill: var(--black); }
+
+/* SVG Strokes */
+
+.stroke-aqua {    stroke: var(--aqua); }
+.stroke-blue {    stroke: var(--blue); }
+.stroke-navy {    stroke: var(--navy); }
+.stroke-lime {    stroke: var(--lime); }
+.stroke-green {   stroke: var(--green); }
+.stroke-olive {   stroke: var(--olive); }
+.stroke-teal {    stroke: var(--teal); }
+.stroke-yellow {  stroke: var(--yellow); }
+.stroke-orange {  stroke: var(--orange); }
+.stroke-red {     stroke: var(--red); }
+.stroke-maroon {  stroke: var(--maroon); }
+.stroke-fuchsia { stroke: var(--fuchsia); }
+.stroke-purple {  stroke: var(--purple); }
+.stroke-white {   stroke: var(--white); }
+.stroke-silver {  stroke: var(--silver); }
+.stroke-gray {    stroke: var(--gray); }
+.stroke-black { stroke: var(--black); }
