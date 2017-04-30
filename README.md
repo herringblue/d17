@@ -34,3 +34,5 @@ There is a total of 82 possible A11Y compliant (contrast ratio ≥ 4.5) colour c
 .gray {    color: #272727; }
 .black {   color: #111111; }
 ```
+## Curated by
+- [Ivan](https://herringblue.github.io)
