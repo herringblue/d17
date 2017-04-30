@@ -8,6 +8,7 @@ You can use either the minified or unminified css file located in the css direct
 
 ## Colours
 The colours are based on the default HTML web colours.
+
 There is a total of 82 possible A11Y compliant (contrast ratio ≥ 4.5) colour combinations.
 
 ```
