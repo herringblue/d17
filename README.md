@@ -6,6 +6,10 @@ You can use either the minified or unminified css file located in the css direct
 
 `<link rel="stylesheet" href="path/to/module/css/d17.css">`
 
+d17.css is also available as a scss partial, located in the scss directory. To use it, import it into your main scss file with `@import`.
+
+`@import 'd17'`
+
 ## Colours
 The colours are based on the default HTML web colours.
 
