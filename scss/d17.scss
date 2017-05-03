@@ -1,0 +1,33 @@
+/* Colour Variables */
+
+$colors: (
+  aqua:  #58E9FF;
+  blue:  #0483FF;
+  navy:  #002147;
+
+  lime:  #5BF44C;
+  green: #1BC00B;
+  olive: #6B8E23;
+  teal:  #007777;
+
+  yellow:  #FFCD00;
+  orange:  #FF7518;
+  red:     #CA0002;
+  maroon:  #500000;
+
+  fuchsia: #ED1A73;
+  purple:  #4B0082;
+
+  white:  #FFFFFF;
+  silver: #EEEEEE;
+  gray:   #272727;
+  black:  #111111;
+);
+
+@each $name, $value in $colors {
+  .bg-#{$name} {     background-color: #{$value}; }; //background color
+  .#{$name} {        color: #{$value}; }; //color
+  .border-#{$name} { border-color: #{$value}; }; //border color
+  .fill-#{$name} {   fill: #{$value}; }; //svg fill
+  .stroke-#{$name} { stroke: #{$value}; }; //stroke color
+}
